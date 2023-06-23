@@ -1,0 +1,15 @@
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\bin\Debug\net6.0\Projeto_Estrutura_Dados.exe
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\bin\Debug\net6.0\Projeto_Estrutura_Dados.deps.json
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\bin\Debug\net6.0\Projeto_Estrutura_Dados.runtimeconfig.json
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\bin\Debug\net6.0\Projeto_Estrutura_Dados.dll
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\bin\Debug\net6.0\ref\Projeto_Estrutura_Dados.dll
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\bin\Debug\net6.0\Projeto_Estrutura_Dados.pdb
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\obj\Debug\net6.0\Projeto_Estrutura_Dados.csproj.AssemblyReference.cache
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\obj\Debug\net6.0\Projeto_Estrutura_Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\obj\Debug\net6.0\Projeto_Estrutura_Dados.AssemblyInfoInputs.cache
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\obj\Debug\net6.0\Projeto_Estrutura_Dados.AssemblyInfo.cs
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\obj\Debug\net6.0\Projeto_Estrutura_Dados.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\obj\Debug\net6.0\Projeto_Estrutura_Dados.dll
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\obj\Debug\net6.0\ref\Projeto_Estrutura_Dados.dll
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\obj\Debug\net6.0\Projeto_Estrutura_Dados.pdb
+C:\Users\gustavo.pereira\source\repos\Projeto_Estrutura_Dados\Projeto_Estrutura_Dados\obj\Debug\net6.0\Projeto_Estrutura_Dados.genruntimeconfig.cache
